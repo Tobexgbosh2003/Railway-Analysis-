@@ -38,5 +38,18 @@ Created DAX functions for aggregation and simple calculations
 # Data Visualization
 This dashboard provides a comprehensive analysis of railway ticket sales, uncovering valuable insights and highlighting opportunities to optimize performance. It identifies key periods to focus on for increasing ticket sales and revenue while providing actionable recommendations for strategic decision-making.
 Dashboard 
-![image](https://github.com/user-attachments/assets/323c620a-4b7f-402b-9104-a07f1fd02bdf)
+![image](https://github.com/user-attachments/assets/af4c5a00-d8e0-47b2-b175-29c61e1740d6)
+![image](https://github.com/user-attachments/assets/99d5d440-9530-4cf5-af85-574ce92200f3)
+![image](https://github.com/user-attachments/assets/e608da4e-f192-4f21-9e4f-014556e620be)
+# Key Insight 
+
+
+
+
+
+
+# Reccomendations 
+
+
+
 
