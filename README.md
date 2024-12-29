@@ -30,5 +30,13 @@ Designing dashboard for a cohesive view of key performance indicators
 Data visualization
 # Data Transformation
 Changed all fields to the appropriate data types. Created new columns to calculate The city, Month name, Hour, Weekday, Time Period.
- 
+ ![image](https://github.com/user-attachments/assets/58fff272-6795-4366-b77d-20acea0fdf52)
+# Data Analysis
+Created DAX functions for aggregation and simple calculations
+![image](https://github.com/user-attachments/assets/188b6f90-46cb-4ebf-9893-03de797872dd)
+
+# Data Visualization
+This dashboard provides a comprehensive analysis of railway ticket sales, uncovering valuable insights and highlighting opportunities to optimize performance. It identifies key periods to focus on for increasing ticket sales and revenue while providing actionable recommendations for strategic decision-making.
+Dashboard 
+![image](https://github.com/user-attachments/assets/323c620a-4b7f-402b-9104-a07f1fd02bdf)
 
