@@ -28,3 +28,7 @@ Creating columns for calculations of sales and profit
 Developing general DAX calculations
 Designing dashboard for a cohesive view of key performance indicators
 Data visualization
+# Data Transformation
+Changed all fields to the appropriate data types. Created new columns to calculate The city, Month name, Hour, Weekday, Time Period.
+ 
+
