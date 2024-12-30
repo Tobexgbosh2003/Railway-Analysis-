@@ -42,13 +42,62 @@ Dashboard
 ![image](https://github.com/user-attachments/assets/99d5d440-9530-4cf5-af85-574ce92200f3)
 ![image](https://github.com/user-attachments/assets/e608da4e-f192-4f21-9e4f-014556e620be)
 # Key Insight 
+Revenue Insights
 
+Total Revenue: £742,000, with a net revenue of £703,000 after refunds.
 
+Top Ticket Types:
 
+Advance: £309,274
 
+Off-Peak: £223,338
 
+Anytime: £209,309
+
+Station and Route Insights
+
+Most Popular Departure Station: Manchester Piccadilly (5,650 bookings).
+
+Top Arrival Destination: Birmingham New Street (7,742 bookings).
+
+Busiest Route: Manchester Piccadilly to Liverpool Lime Street (4,628 trips).
+
+Travel Insights
+
+On-Time Performance: 86.82% of trips were punctual.
+
+Peak Travel Hours: Evening peak (5 PM) saw the highest passenger count.
+
+Common Delay Reasons: Weather, signal failure, and technical issues.
+
+City-Wise Revenue
+
+Top Cities by Revenue:
+
+London: £458,494 (2.1% refund rate).
+
+Liverpool: £135,274 (10.8% refund rate).
+ KPIs Defined
+
+Net Revenue: £703,000.
+
+Ticket Sales: 31,653 total tickets sold, 1,880 cancelled.
+
+On-Time Performance Rate: 86.82%.
 
 # Reccomendations 
+Based on the analysis, I recommend:
+
+1. Improve Delay Management: Focus on mitigating weather and signal-related delays.
+
+2. Optimize Routes: Increase capacity on popular routes like Manchester Piccadilly to Liverpool Lime Street.
+
+3. Targeted Marketing: Promote advance ticket types and premium classes to increase revenue.
+
+4. Enhance Refund Policies: Review high-refund cities like Liverpool to improve customer retention.
+
+5. Expand Peak Services: Add more services during evening peak hours to accommodate demand.
+
 
 
 
